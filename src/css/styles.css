@@ -1,0 +1,7 @@
+span{
+    font-weight: bold
+}
+
+CardImg :hover{
+background-color: rgba(red, green, blue, alpha)
+}
